@@ -269,7 +269,7 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </place>
     <place id="p71">
       <name>
-        <text>p71</text>
+        <text>START</text>
         <graphics>
           <offset x="220" y="820"/>
         </graphics>
@@ -332,13 +332,13 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </place>
     <place id="p77">
       <name>
-        <text>p77</text>
+        <text>START-CentroDiAddestramento</text>
         <graphics>
-          <offset x="450" y="1240"/>
+          <offset x="330" y="1170"/>
         </graphics>
       </name>
       <graphics>
-        <position x="453" y="1196"/>
+        <position x="408" y="1196"/>
         <dimension x="40" y="40"/>
       </graphics>
     </place>
@@ -680,9 +680,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </place>
     <place id="p9">
       <name>
-        <text>START</text>
+        <text>START-Cliente</text>
         <graphics>
-          <offset x="450" y="300"/>
+          <offset x="430" y="240"/>
         </graphics>
       </name>
       <graphics>
@@ -922,7 +922,7 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
       <name>
         <text>END</text>
         <graphics>
-          <offset x="3440" y="960"/>
+          <offset x="3450" y="900"/>
         </graphics>
       </name>
       <graphics>
@@ -932,9 +932,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </place>
     <transition id="t50">
       <name>
-        <text>t50-S</text>
+        <text>Termine Incontro</text>
         <graphics>
-          <offset x="2640" y="1260"/>
+          <offset x="2610" y="1200"/>
         </graphics>
       </name>
       <graphics>
@@ -966,9 +966,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t51">
       <name>
-        <text>t51-R</text>
+        <text>Ricevo Pagamento Elettronico</text>
         <graphics>
-          <offset x="2850" y="1140"/>
+          <offset x="2800" y="1080"/>
         </graphics>
       </name>
       <graphics>
@@ -983,9 +983,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t54">
       <name>
-        <text>t54-R</text>
+        <text>Ricevo Termine Addestramento</text>
         <graphics>
-          <offset x="3060" y="1080"/>
+          <offset x="3000" y="1080"/>
         </graphics>
       </name>
       <graphics>
@@ -1017,9 +1017,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t56">
       <name>
-        <text>t56</text>
+        <text>Attesa Ripresa Addestramento</text>
         <graphics>
-          <offset x="3360" y="1390"/>
+          <offset x="3310" y="1330"/>
         </graphics>
       </name>
       <graphics>
@@ -1034,9 +1034,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t55">
       <name>
-        <text>t55</text>
+        <text>END-CentroDiAddestramento</text>
         <graphics>
-          <offset x="3250" y="1080"/>
+          <offset x="3210" y="1020"/>
         </graphics>
       </name>
       <graphics>
@@ -1051,9 +1051,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t58">
       <name>
-        <text>t58-R</text>
+        <text>Sospensione Addestramento</text>
         <graphics>
-          <offset x="3210" y="1150"/>
+          <offset x="3190" y="1090"/>
         </graphics>
       </name>
       <graphics>
@@ -1068,9 +1068,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t57">
       <name>
-        <text>t57-R</text>
+        <text>Prenotazione Nuovo Incontro</text>
         <graphics>
-          <offset x="2950" y="1640"/>
+          <offset x="2900" y="1570"/>
         </graphics>
       </name>
       <graphics>
@@ -1272,9 +1272,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t2">
       <name>
-        <text>t2-S</text>
+        <text>Contatta Centro Addestramento</text>
         <graphics>
-          <offset x="670" y="380"/>
+          <offset x="630" y="310"/>
         </graphics>
       </name>
       <graphics>
@@ -1323,9 +1323,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t5">
       <name>
-        <text>t5-R</text>
+        <text>Ricevo Appuntamento</text>
         <graphics>
-          <offset x="1080" y="380"/>
+          <offset x="1040" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1340,9 +1340,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t6">
       <name>
-        <text>t6</text>
+        <text>Verifica Disponibilità</text>
         <graphics>
-          <offset x="1200" y="380"/>
+          <offset x="1170" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1376,11 +1376,11 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
       <name>
         <text>t8</text>
         <graphics>
-          <offset x="370" y="810"/>
+          <offset x="380" y="820"/>
         </graphics>
       </name>
       <graphics>
-        <position x="370" y="773"/>
+        <position x="383" y="786"/>
         <dimension x="40" y="40"/>
       </graphics>
       <toolspecific tool="WoPeD" version="1.0">
@@ -1391,9 +1391,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t9">
       <name>
-        <text>t9-S</text>
+        <text>Nuova Proposta Appuntamento</text>
         <graphics>
-          <offset x="1240" y="490"/>
+          <offset x="1180" y="430"/>
         </graphics>
       </name>
       <graphics>
@@ -1510,9 +1510,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t10">
       <name>
-        <text>t10-R</text>
+        <text>Ricevo Rifiuto Proposta</text>
         <graphics>
-          <offset x="1040" y="490"/>
+          <offset x="1000" y="430"/>
         </graphics>
       </name>
       <graphics>
@@ -1544,9 +1544,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t11">
       <name>
-        <text>t11-S</text>
+        <text>Notifica Conferma</text>
         <graphics>
-          <offset x="1460" y="380"/>
+          <offset x="1430" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1561,9 +1561,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t14">
       <name>
-        <text>t14-R</text>
+        <text>Ricevo Accettazione Proposta</text>
         <graphics>
-          <offset x="1340" y="600"/>
+          <offset x="1300" y="540"/>
         </graphics>
       </name>
       <graphics>
@@ -1578,9 +1578,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t13">
       <name>
-        <text>t13-R</text>
+        <text>Richiesta Appuntamento Cliente</text>
         <graphics>
-          <offset x="540" y="1240"/>
+          <offset x="500" y="1170"/>
         </graphics>
       </name>
       <graphics>
@@ -1612,9 +1612,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t15">
       <name>
-        <text>t15</text>
+        <text>Attesa Data Incontro</text>
         <graphics>
-          <offset x="1710" y="380"/>
+          <offset x="1680" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1646,9 +1646,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t17">
       <name>
-        <text>t17-R</text>
+        <text>Ricevi Istruzioni Esercizio</text>
         <graphics>
-          <offset x="1970" y="380"/>
+          <offset x="1920" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1663,9 +1663,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t19">
       <name>
-        <text>t19-S</text>
+        <text>Esecuzione Esercizio</text>
         <graphics>
-          <offset x="2240" y="380"/>
+          <offset x="2210" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1680,9 +1680,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t21">
       <name>
-        <text>t21-R</text>
+        <text>Termine Incontro</text>
         <graphics>
-          <offset x="2430" y="380"/>
+          <offset x="2400" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1697,9 +1697,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t20">
       <name>
-        <text>t20-R</text>
+        <text>Ricevi Nuovo Esercizio</text>
         <graphics>
-          <offset x="2210" y="230"/>
+          <offset x="2170" y="170"/>
         </graphics>
       </name>
       <graphics>
@@ -1714,9 +1714,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t23">
       <name>
-        <text>t23-S</text>
+        <text>Pagamento Elettronico</text>
         <graphics>
-          <offset x="2600" y="380"/>
+          <offset x="2570" y="320"/>
         </graphics>
       </name>
       <graphics>
@@ -1731,13 +1731,13 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t22">
       <name>
-        <text>t22-R</text>
+        <text>Ripeti Esercizio</text>
         <graphics>
-          <offset x="2270" y="550"/>
+          <offset x="2260" y="480"/>
         </graphics>
       </name>
       <graphics>
-        <position x="2273" y="510"/>
+        <position x="2273" y="501"/>
         <dimension x="40" y="40"/>
       </graphics>
       <toolspecific tool="WoPeD" version="1.0">
@@ -1765,13 +1765,13 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t24">
       <name>
-        <text>t24</text>
+        <text>Associa Addestratore</text>
         <graphics>
-          <offset x="690" y="1240"/>
+          <offset x="680" y="1180"/>
         </graphics>
       </name>
       <graphics>
-        <position x="693" y="1200"/>
+        <position x="711" y="1200"/>
         <dimension x="40" y="40"/>
       </graphics>
       <toolspecific tool="WoPeD" version="1.0">
@@ -1782,9 +1782,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t27">
       <name>
-        <text>t27-S</text>
+        <text>Notifico Sospensione Addestramento</text>
         <graphics>
-          <offset x="2790" y="750"/>
+          <offset x="2720" y="700"/>
         </graphics>
       </name>
       <graphics>
@@ -1799,9 +1799,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t26">
       <name>
-        <text>t26-S</text>
+        <text>Notifico Termine Addestramento</text>
         <graphics>
-          <offset x="2930" y="270"/>
+          <offset x="2880" y="210"/>
         </graphics>
       </name>
       <graphics>
@@ -1816,9 +1816,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t29">
       <name>
-        <text>t29</text>
+        <text>Attesa Ripresa Addestramento</text>
         <graphics>
-          <offset x="1650" y="770"/>
+          <offset x="1600" y="770"/>
         </graphics>
       </name>
       <graphics>
@@ -1833,9 +1833,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t28">
       <name>
-        <text>t28-S</text>
+        <text>Notifico Nuovo Incontro</text>
         <graphics>
-          <offset x="2690" y="650"/>
+          <offset x="2640" y="590"/>
         </graphics>
       </name>
       <graphics>
@@ -1867,9 +1867,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t32">
       <name>
-        <text>t32</text>
+        <text>Verifica Disponibilità</text>
         <graphics>
-          <offset x="1030" y="1540"/>
+          <offset x="1000" y="1480"/>
         </graphics>
       </name>
       <graphics>
@@ -1918,9 +1918,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t33">
       <name>
-        <text>t33-S</text>
+        <text>Invio Proposta Appuntamento</text>
         <graphics>
-          <offset x="1170" y="1540"/>
+          <offset x="1110" y="1460"/>
         </graphics>
       </name>
       <graphics>
@@ -1952,9 +1952,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t35">
       <name>
-        <text>t35-R</text>
+        <text>Ricevi Nuova Proposta</text>
         <graphics>
-          <offset x="1350" y="1600"/>
+          <offset x="1320" y="1540"/>
         </graphics>
       </name>
       <graphics>
@@ -1969,9 +1969,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t38">
       <name>
-        <text>t38-R</text>
+        <text>Ricevo Conferma Appuntamento</text>
         <graphics>
-          <offset x="1350" y="1370"/>
+          <offset x="1290" y="1290"/>
         </graphics>
       </name>
       <graphics>
@@ -1986,9 +1986,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t37">
       <name>
-        <text>t37-S</text>
+        <text>Accetta Nuova Proposta</text>
         <graphics>
-          <offset x="1500" y="1470"/>
+          <offset x="1470" y="1420"/>
         </graphics>
       </name>
       <graphics>
@@ -2020,9 +2020,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t41">
       <name>
-        <text>t41-Wait</text>
+        <text>Attesa Data Incontro</text>
         <graphics>
-          <offset x="1630" y="1360"/>
+          <offset x="1600" y="1300"/>
         </graphics>
       </name>
       <graphics>
@@ -2037,7 +2037,7 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t40">
       <name>
-        <text>t40-S</text>
+        <text>Notifica Rifiuto Proposta</text>
         <graphics>
           <offset x="980" y="1730"/>
         </graphics>
@@ -2054,9 +2054,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t43">
       <name>
-        <text>t43-S</text>
+        <text>Spiega Esercizio</text>
         <graphics>
-          <offset x="1980" y="1350"/>
+          <offset x="1960" y="1290"/>
         </graphics>
       </name>
       <graphics>
@@ -2088,9 +2088,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t45">
       <name>
-        <text>t45-R</text>
+        <text>Osserva Esecuzione</text>
         <graphics>
-          <offset x="2190" y="1440"/>
+          <offset x="2160" y="1380"/>
         </graphics>
       </name>
       <graphics>
@@ -2122,13 +2122,13 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t46">
       <name>
-        <text>t46</text>
+        <text>Valuta Esecuzione</text>
         <graphics>
-          <offset x="2330" y="1440"/>
+          <offset x="2310" y="1370"/>
         </graphics>
       </name>
       <graphics>
-        <position x="2333" y="1400"/>
+        <position x="2341" y="1391"/>
         <dimension x="40" y="40"/>
       </graphics>
       <toolspecific tool="WoPeD" version="1.0">
@@ -2139,9 +2139,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t49">
       <name>
-        <text>t49-S</text>
+        <text>Esercizio Successivo</text>
         <graphics>
-          <offset x="2760" y="1430"/>
+          <offset x="2730" y="1370"/>
         </graphics>
       </name>
       <graphics>
@@ -2156,9 +2156,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
     </transition>
     <transition id="t48">
       <name>
-        <text>t48-S</text>
+        <text>Chiede di Ripetere Esercizio</text>
         <graphics>
-          <offset x="2600" y="1530"/>
+          <offset x="2590" y="1470"/>
         </graphics>
       </name>
       <graphics>
@@ -2910,7 +2910,9 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
           <offset x="500.0" y="-12.0"/>
         </graphics>
       </inscription>
-      <graphics/>
+      <graphics>
+        <position x="530" y="335"/>
+      </graphics>
       <toolspecific tool="WoPeD" version="1.0">
         <probability>1.0</probability>
         <displayProbabilityOn>false</displayProbabilityOn>
@@ -4656,7 +4658,7 @@ Created with Workflow PetriNet Designer Version 3.2.0 (woped.org)-->
         <position x="2" y="24"/>
         <dimension x="1519" y="642"/>
       </bounds>
-      <scale>60</scale>
+      <scale>53</scale>
       <treeWidthRight>1199</treeWidthRight>
       <overviewPanelVisible>true</overviewPanelVisible>
       <treeHeightOverview>100</treeHeightOverview>
