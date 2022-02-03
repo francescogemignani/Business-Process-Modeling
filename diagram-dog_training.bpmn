@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bpmn:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_1uy1dqq" targetNamespace="http://bpmn.io/schema/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="8.9.0">
+<bpmn:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_1uy1dqq" targetNamespace="http://bpmn.io/schema/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="8.9.1">
   <bpmn:collaboration id="Collaboration_0jfj9bk">
     <bpmn:participant id="Participant_13tbvs9" name="CENTRO ADDESTRAMENTO" processRef="Process_04b8p0h" />
     <bpmn:participant id="Participant_1iyik8w" name="Cliente" processRef="Process_1hjn4b4" />
@@ -246,7 +246,7 @@
       <bpmn:outgoing>Flow_1v86t45</bpmn:outgoing>
     </bpmn:eventBasedGateway>
     <bpmn:textAnnotation id="TextAnnotation_17lv294">
-      <bpmn:text>Primo Incontro
+      <bpmn:text>Incontro
 Data: ...
 Luogo: ...</bpmn:text>
     </bpmn:textAnnotation>
@@ -733,7 +733,7 @@ Luogo: ...</bpmn:text>
         <dc:Bounds x="3185" y="1335" width="50" height="50" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="TextAnnotation_17lv294_di" bpmnElement="TextAnnotation_17lv294">
-        <dc:Bounds x="970" y="1652" width="100" height="55" />
+        <dc:Bounds x="970" y="1652" width="99.98292349726775" height="54.9863387978142" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="Association_0lvmga8_di" bpmnElement="Association_0lvmga8">
         <di:waypoint x="956" y="1760" />
