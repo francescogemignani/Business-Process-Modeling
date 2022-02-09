@@ -10657,3 +10657,1191 @@
 [2022-02-08 16:29:49,213] 205435  INFO CONFIG_LOGGER: Setting current working directory: null
 [2022-02-08 16:29:54,220] 210442  INFO CONFIG_LOGGER: Configuration successfully saved to: C:\Users\saver\.WoPeD-3.8.0\WoPeDconfig.xml
 [2022-02-08 16:29:54,220] 210442  INFO GUI_LOGGER: EXIT WoPeD
+[2022-02-08 16:57:53,068] 0  INFO GUI_LOGGER: INIT APPLICATION
+[2022-02-08 16:57:53,099] 31  INFO CORE_LOGGER: START INIT Application
+[2022-02-08 16:57:53,106] 38  INFO CONFIG_LOGGER: Setting default home directory: C:\Users\saver\.WoPeD-3.8.0\nets\
+[2022-02-08 16:57:53,106] 38  INFO CONFIG_LOGGER: Loading configuration from: C:\Users\saver\.WoPeD-3.8.0\WoPeDconfig.xml.
+[2022-02-08 16:57:53,269] 201  INFO CONFIG_LOGGER: Setting Locale to it_IT
+[2022-02-08 16:57:53,271] 203  INFO CONFIG_LOGGER: Setting home directory: C:\Users\saver\.WoPeD-3.8.0\nets\
+[2022-02-08 16:57:53,272] 204  INFO CONFIG_LOGGER: Setting current working directory: null
+[2022-02-08 16:57:53,272] 204  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\saver\.WoPeD-3.8.0\nets\
+[2022-02-08 16:57:53,288] 220  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2022-02-08 16:57:53,295] 227  WARN CONFIG_LOGGER: Configuration file not found: C:\Users\saver\.WoPeD-3.8.0\WoPeDmetrics.xml. Using built-in settings.
+[2022-02-08 16:57:53,319] 251  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2022-02-08 16:57:53,352] 284  INFO CORE_LOGGER: Look-And-Feel set to com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2022-02-08 16:57:53,703] 635  INFO GUI_LOGGER: END  INIT Application
+[2022-02-08 16:57:53,953] 885 DEBUG QUALANALYSIS_LOGGER: -> init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2022-02-08 16:57:53,962] 894 DEBUG QUALANALYSIS_LOGGER: <- init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2022-02-08 16:57:54,002] 934 DEBUG FILE_LOGGER: ##### START PNML Version (1.3.2) IMPORT #####
+[2022-02-08 16:57:54,212] 1144 DEBUG QUALANALYSIS_LOGGER: PT Handle Pairs calculated. (0 ms)
+[2022-02-08 16:57:54,212] 1144 DEBUG QUALANALYSIS_LOGGER: TP Handle Pairs calculated. (9 ms)
+[2022-02-08 16:57:54,436] 1368 DEBUG FILE_LOGGER:  ... Place (ID:p50) imported
+[2022-02-08 16:57:54,436] 1368 DEBUG FILE_LOGGER:  ... Place (ID:p52) imported
+[2022-02-08 16:57:54,437] 1369 DEBUG FILE_LOGGER:  ... Place (ID:p51) imported
+[2022-02-08 16:57:54,437] 1369 DEBUG FILE_LOGGER:  ... Place (ID:p54) imported
+[2022-02-08 16:57:54,437] 1369 DEBUG FILE_LOGGER:  ... Place (ID:p53) imported
+[2022-02-08 16:57:54,438] 1370 DEBUG FILE_LOGGER:  ... Place (ID:p56) imported
+[2022-02-08 16:57:54,439] 1371 DEBUG FILE_LOGGER:  ... Place (ID:p55) imported
+[2022-02-08 16:57:54,439] 1371 DEBUG FILE_LOGGER:  ... Place (ID:p58) imported
+[2022-02-08 16:57:54,439] 1371 DEBUG FILE_LOGGER:  ... Place (ID:p57) imported
+[2022-02-08 16:57:54,440] 1372 DEBUG FILE_LOGGER:  ... Place (ID:p59) imported
+[2022-02-08 16:57:54,440] 1372 DEBUG FILE_LOGGER:  ... Place (ID:p61) imported
+[2022-02-08 16:57:54,440] 1372 DEBUG FILE_LOGGER:  ... Place (ID:p60) imported
+[2022-02-08 16:57:54,440] 1372 DEBUG FILE_LOGGER:  ... Place (ID:p63) imported
+[2022-02-08 16:57:54,441] 1373 DEBUG FILE_LOGGER:  ... Place (ID:p62) imported
+[2022-02-08 16:57:54,441] 1373 DEBUG FILE_LOGGER:  ... Place (ID:p65) imported
+[2022-02-08 16:57:54,444] 1376 DEBUG FILE_LOGGER:  ... Place (ID:p64) imported
+[2022-02-08 16:57:54,444] 1376 DEBUG FILE_LOGGER:  ... Place (ID:p67) imported
+[2022-02-08 16:57:54,445] 1377 DEBUG FILE_LOGGER:  ... Place (ID:p66) imported
+[2022-02-08 16:57:54,445] 1377 DEBUG FILE_LOGGER:  ... Place (ID:p69) imported
+[2022-02-08 16:57:54,445] 1377 DEBUG FILE_LOGGER:  ... Place (ID:p68) imported
+[2022-02-08 16:57:54,445] 1377 DEBUG FILE_LOGGER:  ... Place (ID:p70) imported
+[2022-02-08 16:57:54,446] 1378 DEBUG FILE_LOGGER:  ... Place (ID:p72) imported
+[2022-02-08 16:57:54,446] 1378 DEBUG FILE_LOGGER:  ... Place (ID:p74) imported
+[2022-02-08 16:57:54,446] 1378 DEBUG FILE_LOGGER:  ... Place (ID:p73) imported
+[2022-02-08 16:57:54,447] 1379 DEBUG FILE_LOGGER:  ... Place (ID:p76) imported
+[2022-02-08 16:57:54,447] 1379 DEBUG FILE_LOGGER:  ... Place (ID:p75) imported
+[2022-02-08 16:57:54,447] 1379 DEBUG FILE_LOGGER:  ... Place (ID:p10) imported
+[2022-02-08 16:57:54,447] 1379 DEBUG FILE_LOGGER:  ... Place (ID:p12) imported
+[2022-02-08 16:57:54,447] 1379 DEBUG FILE_LOGGER:  ... Place (ID:p11) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p14) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p13) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p16) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p15) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p18) imported
+[2022-02-08 16:57:54,448] 1380 DEBUG FILE_LOGGER:  ... Place (ID:p17) imported
+[2022-02-08 16:57:54,449] 1381 DEBUG FILE_LOGGER:  ... Place (ID:p19) imported
+[2022-02-08 16:57:54,449] 1381 DEBUG FILE_LOGGER:  ... Place (ID:p21) imported
+[2022-02-08 16:57:54,449] 1381 DEBUG FILE_LOGGER:  ... Place (ID:p20) imported
+[2022-02-08 16:57:54,449] 1381 DEBUG FILE_LOGGER:  ... Place (ID:p23) imported
+[2022-02-08 16:57:54,449] 1381 DEBUG FILE_LOGGER:  ... Place (ID:p22) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p25) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p24) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p27) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p26) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p29) imported
+[2022-02-08 16:57:54,450] 1382 DEBUG FILE_LOGGER:  ... Place (ID:p28) imported
+[2022-02-08 16:57:54,451] 1383 DEBUG FILE_LOGGER:  ... Place (ID:p2) imported
+[2022-02-08 16:57:54,451] 1383 DEBUG FILE_LOGGER:  ... Place (ID:p3) imported
+[2022-02-08 16:57:54,451] 1383 DEBUG FILE_LOGGER:  ... Place (ID:p4) imported
+[2022-02-08 16:57:54,451] 1383 DEBUG FILE_LOGGER:  ... Place (ID:p5) imported
+[2022-02-08 16:57:54,452] 1384 DEBUG FILE_LOGGER:  ... Place (ID:p6) imported
+[2022-02-08 16:57:54,452] 1384 DEBUG FILE_LOGGER:  ... Place (ID:p7) imported
+[2022-02-08 16:57:54,452] 1384 DEBUG FILE_LOGGER:  ... Place (ID:p8) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p9) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p30) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p32) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p31) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p34) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p33) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p36) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p35) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p38) imported
+[2022-02-08 16:57:54,454] 1386 DEBUG FILE_LOGGER:  ... Place (ID:p37) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p39) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p41) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p40) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p43) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p42) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p45) imported
+[2022-02-08 16:57:54,455] 1387 DEBUG FILE_LOGGER:  ... Place (ID:p44) imported
+[2022-02-08 16:57:54,456] 1388 DEBUG FILE_LOGGER:  ... Place (ID:p47) imported
+[2022-02-08 16:57:54,456] 1388 DEBUG FILE_LOGGER:  ... Place (ID:p46) imported
+[2022-02-08 16:57:54,456] 1388 DEBUG FILE_LOGGER:  ... Place (ID:p49) imported
+[2022-02-08 16:57:54,456] 1388 DEBUG FILE_LOGGER:  ... Place (ID:p48) imported
+[2022-02-08 16:57:54,464] 1396 DEBUG FILE_LOGGER:  ... Transition (ID:t50) imported 
+[2022-02-08 16:57:54,464] 1396 DEBUG FILE_LOGGER:  ... Transition (ID:t52) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t51) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t54) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t53) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t56) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t55) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t58) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t57) imported 
+[2022-02-08 16:57:54,465] 1397 DEBUG FILE_LOGGER:  ... Transition (ID:t59) imported 
+[2022-02-08 16:57:54,466] 1398 DEBUG FILE_LOGGER:  ... Transition (ID:t61) imported 
+[2022-02-08 16:57:54,466] 1398 DEBUG FILE_LOGGER:  ... Transition (ID:t60) imported 
+[2022-02-08 16:57:54,466] 1398 DEBUG FILE_LOGGER:  ... Transition (ID:t63) imported 
+[2022-02-08 16:57:54,466] 1398 DEBUG FILE_LOGGER:  ... Transition (ID:t62) imported 
+[2022-02-08 16:57:54,466] 1398 DEBUG FILE_LOGGER:  ... Transition (ID:t65) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t67) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t66) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t69) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t68) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t2) imported 
+[2022-02-08 16:57:54,467] 1399 DEBUG FILE_LOGGER:  ... Transition (ID:t3) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t4) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t5) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t6) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t7) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t9) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t70) imported 
+[2022-02-08 16:57:54,468] 1400 DEBUG FILE_LOGGER:  ... Transition (ID:t72) imported 
+[2022-02-08 16:57:54,469] 1401 DEBUG FILE_LOGGER:  ... Transition (ID:t71) imported 
+[2022-02-08 16:57:54,470] 1402 DEBUG FILE_LOGGER:  ... Transition (ID:t74) imported 
+[2022-02-08 16:57:54,470] 1402 DEBUG FILE_LOGGER:  ... Transition (ID:t73) imported 
+[2022-02-08 16:57:54,470] 1402 DEBUG FILE_LOGGER:  ... Transition (ID:t76) imported 
+[2022-02-08 16:57:54,470] 1402 DEBUG FILE_LOGGER:  ... Transition (ID:t10) imported 
+[2022-02-08 16:57:54,470] 1402 DEBUG FILE_LOGGER:  ... Transition (ID:t12) imported 
+[2022-02-08 16:57:54,471] 1403 DEBUG FILE_LOGGER:  ... Transition (ID:t11) imported 
+[2022-02-08 16:57:54,471] 1403 DEBUG FILE_LOGGER:  ... Transition (ID:t14) imported 
+[2022-02-08 16:57:54,471] 1403 DEBUG FILE_LOGGER:  ... Transition (ID:t13) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t16) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t15) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t18) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t17) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t19) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t21) imported 
+[2022-02-08 16:57:54,472] 1404 DEBUG FILE_LOGGER:  ... Transition (ID:t20) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t23) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t22) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t25) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t24) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t27) imported 
+[2022-02-08 16:57:54,473] 1405 DEBUG FILE_LOGGER:  ... Transition (ID:t26) imported 
+[2022-02-08 16:57:54,474] 1406 DEBUG FILE_LOGGER:  ... Transition (ID:t29) imported 
+[2022-02-08 16:57:54,474] 1406 DEBUG FILE_LOGGER:  ... Transition (ID:t28) imported 
+[2022-02-08 16:57:54,474] 1406 DEBUG FILE_LOGGER:  ... Transition (ID:t30) imported 
+[2022-02-08 16:57:54,474] 1406 DEBUG FILE_LOGGER:  ... Transition (ID:t32) imported 
+[2022-02-08 16:57:54,474] 1406 DEBUG FILE_LOGGER:  ... Transition (ID:t31) imported 
+[2022-02-08 16:57:54,475] 1407 DEBUG FILE_LOGGER:  ... Transition (ID:t34) imported 
+[2022-02-08 16:57:54,475] 1407 DEBUG FILE_LOGGER:  ... Transition (ID:t33) imported 
+[2022-02-08 16:57:54,475] 1407 DEBUG FILE_LOGGER:  ... Transition (ID:t36) imported 
+[2022-02-08 16:57:54,475] 1407 DEBUG FILE_LOGGER:  ... Transition (ID:t35) imported 
+[2022-02-08 16:57:54,475] 1407 DEBUG FILE_LOGGER:  ... Transition (ID:t38) imported 
+[2022-02-08 16:57:54,476] 1408 DEBUG FILE_LOGGER:  ... Transition (ID:t37) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t39) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t41) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t40) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t43) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t42) imported 
+[2022-02-08 16:57:54,477] 1409 DEBUG FILE_LOGGER:  ... Transition (ID:t45) imported 
+[2022-02-08 16:57:54,478] 1410 DEBUG FILE_LOGGER:  ... Transition (ID:t44) imported 
+[2022-02-08 16:57:54,478] 1410 DEBUG FILE_LOGGER:  ... Transition (ID:t46) imported 
+[2022-02-08 16:57:54,478] 1410 DEBUG FILE_LOGGER:  ... Transition (ID:t49) imported 
+[2022-02-08 16:57:54,478] 1410 DEBUG FILE_LOGGER:  ... Transition (ID:t48) imported 
+[2022-02-08 16:57:54,485] 1417 DEBUG FILE_LOGGER:  ... Arc created: (ID:a79) t22 -> p29 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a120) t26 -> p46 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a121) t19 -> p47 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a78) p47 -> t45 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a127) p64 -> t63 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a82) t48 -> p31 
+[2022-02-08 16:57:54,486] 1418 DEBUG FILE_LOGGER:  ... Arc created: (ID:a129) p62 -> t45 
+[2022-02-08 16:57:54,487] 1419 DEBUG FILE_LOGGER:  ... Arc created: (ID:a84) p31 -> t22 
+[2022-02-08 16:57:54,487] 1419 DEBUG FILE_LOGGER:  ... Arc created: (ID:a122) t52 -> p69 
+[2022-02-08 16:57:54,487] 1419 DEBUG FILE_LOGGER:  ... Arc created: (ID:a83) p32 -> t21 
+[2022-02-08 16:57:54,487] 1419 DEBUG FILE_LOGGER:  ... Arc created: (ID:a123) p60 -> t43 
+[2022-02-08 16:57:54,487] 1419 DEBUG FILE_LOGGER:  ... Arc created: (ID:a86) t21 -> p33 
+[2022-02-08 16:57:54,488] 1420 DEBUG FILE_LOGGER:  ... Arc created: (ID:a124) t43 -> p61 
+[2022-02-08 16:57:54,490] 1422 DEBUG FILE_LOGGER:  ... Arc created: (ID:a85) p30 -> t20 
+[2022-02-08 16:57:54,490] 1422 DEBUG FILE_LOGGER:  ... Arc created: (ID:a125) p64 -> t52 
+[2022-02-08 16:57:54,491] 1423 DEBUG FILE_LOGGER:  ... Arc created: (ID:a88) t23 -> p34 
+[2022-02-08 16:57:54,491] 1423 DEBUG FILE_LOGGER:  ... Arc created: (ID:a195) p20 -> t67 
+[2022-02-08 16:57:54,492] 1424 DEBUG FILE_LOGGER:  ... Arc created: (ID:a87) p33 -> t23 
+[2022-02-08 16:57:54,492] 1424 DEBUG FILE_LOGGER:  ... Arc created: (ID:a196) t67 -> p21 
+[2022-02-08 16:57:54,492] 1424 DEBUG FILE_LOGGER:  ... Arc created: (ID:a197) p16 -> t68 
+[2022-02-08 16:57:54,493] 1425 DEBUG FILE_LOGGER:  ... Arc created: (ID:a89) t23 -> p35 
+[2022-02-08 16:57:54,493] 1425 DEBUG FILE_LOGGER:  ... Arc created: (ID:a119) t27 -> p45 
+[2022-02-08 16:57:54,493] 1425 DEBUG FILE_LOGGER:  ... Arc created: (ID:a91) p61 -> t39 
+[2022-02-08 16:57:54,493] 1425 DEBUG FILE_LOGGER:  ... Arc created: (ID:a115) p64 -> t44 
+[2022-02-08 16:57:54,494] 1426 DEBUG FILE_LOGGER:  ... Arc created: (ID:a90) t50 -> p32 
+[2022-02-08 16:57:54,494] 1426 DEBUG FILE_LOGGER:  ... Arc created: (ID:a116) t44 -> p65 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a93) t39 -> p62 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a118) t28 -> p44 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a92) p56 -> t40 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a95) p36 -> t26 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a111) t55 -> p48 
+[2022-02-08 16:57:54,495] 1427 DEBUG FILE_LOGGER:  ... Arc created: (ID:a199) t68 -> p21 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a112) t27 -> p42 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a94) t40 -> p57 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a113) p42 -> t29 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a97) p34 -> t51 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a114) t29 -> p43 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a96) p66 -> t42 
+[2022-02-08 16:57:54,496] 1428 DEBUG FILE_LOGGER:  ... Arc created: (ID:a11) t4 -> p40 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a99) t42 -> p62 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a10) t24 -> p37 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a98) p46 -> t54 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a13) p5 -> t5 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a12) p75 -> t7 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a15) t5 -> p7 
+[2022-02-08 16:57:54,497] 1429 DEBUG FILE_LOGGER:  ... Arc created: (ID:a14) p6 -> t5 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a17) t6 -> p8 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a16) p7 -> t6 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a19) t7 -> p40 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a148) p43 -> t53 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a149) p41 -> t59 
+[2022-02-08 16:57:54,498] 1430 DEBUG FILE_LOGGER:  ... Arc created: (ID:a144) p3 -> t60 
+[2022-02-08 16:57:54,499] 1431 DEBUG FILE_LOGGER:  ... Arc created: (ID:a145) p67 -> t49 
+[2022-02-08 16:57:54,499] 1431 DEBUG FILE_LOGGER:  ... Arc created: (ID:a146) t49 -> p68 
+[2022-02-08 16:57:54,499] 1431 DEBUG FILE_LOGGER:  ... Arc created: (ID:a20) t33 -> p6 
+[2022-02-08 16:57:54,499] 1431 DEBUG FILE_LOGGER:  ... Arc created: (ID:a22) t40 -> p13 
+[2022-02-08 16:57:54,499] 1431 DEBUG FILE_LOGGER:  ... Arc created: (ID:a130) t45 -> p63 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a21) p40 -> t12 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a131) p63 -> t46 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a24) p57 -> t16 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a132) t46 -> p64 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a23) t12 -> p49 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a26) t37 -> p18 
+[2022-02-08 16:57:54,500] 1432 DEBUG FILE_LOGGER:  ... Arc created: (ID:a25) t16 -> p49 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a28) t9 -> p11 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a27) p10 -> t9 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a29) t9 -> p12 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a137) p65 -> t48 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a138) t48 -> p66 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a133) t63 -> p67 
+[2022-02-08 16:57:54,501] 1433 DEBUG FILE_LOGGER:  ... Arc created: (ID:a31) p13 -> t10 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a30) p12 -> t10 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a162) p73 -> t55 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a33) p52 -> t18 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a32) t10 -> p14 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a35) t32 -> p50 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a164) p74 -> t56 
+[2022-02-08 16:57:54,502] 1434 DEBUG FILE_LOGGER:  ... Arc created: (ID:a34) p49 -> t32 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a165) t56 -> p75 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a37) p50 -> t33 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a36) t18 -> p53 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a39) p15 -> t11 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a160) p72 -> t54 
+[2022-02-08 16:57:54,503] 1435 DEBUG FILE_LOGGER:  ... Arc created: (ID:a161) t54 -> p73 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a38) t33 -> p51 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a207) t71 -> p26 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a203) t70 -> p23 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a204) p24 -> t72 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a205) t72 -> p26 
+[2022-02-08 16:57:54,504] 1436 DEBUG FILE_LOGGER:  ... Arc created: (ID:a206) p29 -> t71 
+[2022-02-08 16:57:54,505] 1437 DEBUG FILE_LOGGER:  ... Arc created: (ID:a40) t11 -> p16 
+[2022-02-08 16:57:54,505] 1437 DEBUG FILE_LOGGER:  ... Arc created: (ID:a167) p14 -> t62 
+[2022-02-08 16:57:54,505] 1437 DEBUG FILE_LOGGER:  ... Arc created: (ID:a200) p28 -> t69 
+[2022-02-08 16:57:54,505] 1437 DEBUG FILE_LOGGER:  ... Arc created: (ID:a168) t62 -> p5 
+[2022-02-08 16:57:54,506] 1438 DEBUG FILE_LOGGER:  ... Arc created: (ID:a201) t69 -> p23 
+[2022-02-08 16:57:54,506] 1438 DEBUG FILE_LOGGER:  ... Arc created: (ID:a42) p52 -> t25 
+[2022-02-08 16:57:54,506] 1438 DEBUG FILE_LOGGER:  ... Arc created: (ID:a169) p72 -> t57 
+[2022-02-08 16:57:54,507] 1439 DEBUG FILE_LOGGER:  ... Arc created: (ID:a41) p11 -> t35 
+[2022-02-08 16:57:54,508] 1440 DEBUG FILE_LOGGER:  ... Arc created: (ID:a202) p22 -> t70 
+[2022-02-08 16:57:54,508] 1440 DEBUG FILE_LOGGER:  ... Arc created: (ID:a44) t11 -> p17 
+[2022-02-08 16:57:54,508] 1440 DEBUG FILE_LOGGER:  ... Arc created: (ID:a151) t60 -> p4 
+[2022-02-08 16:57:54,508] 1440 DEBUG FILE_LOGGER:  ... Arc created: (ID:a152) t53 -> p4 
+[2022-02-08 16:57:54,509] 1441 DEBUG FILE_LOGGER:  ... Arc created: (ID:a43) p51 -> t35 
+[2022-02-08 16:57:54,509] 1441 DEBUG FILE_LOGGER:  ... Arc created: (ID:a46) p18 -> t14 
+[2022-02-08 16:57:54,509] 1441 DEBUG FILE_LOGGER:  ... Arc created: (ID:a153) p69 -> t50 
+[2022-02-08 16:57:54,510] 1442 DEBUG FILE_LOGGER:  ... Arc created: (ID:a154) t50 -> p70 
+[2022-02-08 16:57:54,510] 1442 DEBUG FILE_LOGGER:  ... Arc created: (ID:a45) p12 -> t14 
+[2022-02-08 16:57:54,510] 1442 DEBUG FILE_LOGGER:  ... Arc created: (ID:a48) t25 -> p56 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a47) t35 -> p52 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a49) p17 -> t38 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a159) t61 -> p5 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a51) t14 -> p20 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a155) p70 -> t51 
+[2022-02-08 16:57:54,511] 1443 DEBUG FILE_LOGGER:  ... Arc created: (ID:a156) t59 -> p4 
+[2022-02-08 16:57:54,512] 1444 DEBUG FILE_LOGGER:  ... Arc created: (ID:a50) p54 -> t31 
+[2022-02-08 16:57:54,512] 1444 DEBUG FILE_LOGGER:  ... Arc created: (ID:a53) t43 -> p25 
+[2022-02-08 16:57:54,512] 1444 DEBUG FILE_LOGGER:  ... Arc created: (ID:a157) p4 -> t61 
+[2022-02-08 16:57:54,512] 1444 DEBUG FILE_LOGGER:  ... Arc created: (ID:a158) t51 -> p72 
+[2022-02-08 16:57:54,512] 1444 DEBUG FILE_LOGGER:  ... Arc created: (ID:a52) t31 -> p58 
+[2022-02-08 16:57:54,513] 1445 DEBUG FILE_LOGGER:  ... Arc created: (ID:a55) p53 -> t37 
+[2022-02-08 16:57:54,513] 1445 DEBUG FILE_LOGGER:  ... Arc created: (ID:a184) t66 -> p15 
+[2022-02-08 16:57:54,513] 1445 DEBUG FILE_LOGGER:  ... Arc created: (ID:a185) p8 -> t65 
+[2022-02-08 16:57:54,513] 1445 DEBUG FILE_LOGGER:  ... Arc created: (ID:a54) p55 -> t30 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a57) p21 -> t15 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a186) t65 -> p10 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a56) t37 -> p54 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a220) p35 -> t73 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a59) t30 -> p58 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a58) t15 -> p22 
+[2022-02-08 16:57:54,514] 1446 DEBUG FILE_LOGGER:  ... Arc created: (ID:a182) p8 -> t66 
+[2022-02-08 16:57:54,515] 1447 DEBUG FILE_LOGGER:  ... Arc created: (ID:a108) t28 -> p41 
+[2022-02-08 16:57:54,515] 1447 DEBUG FILE_LOGGER:  ... Arc created: (ID:a104) p44 -> t57 
+[2022-02-08 16:57:54,515] 1447 DEBUG FILE_LOGGER:  ... Arc created: (ID:a225) t76 -> p39 
+[2022-02-08 16:57:54,515] 1447 DEBUG FILE_LOGGER:  ... Arc created: (ID:a105) p58 -> t41 
+[2022-02-08 16:57:54,515] 1447 DEBUG FILE_LOGGER:  ... Arc created: (ID:a106) p39 -> t28 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a60) p51 -> t38 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a107) t41 -> p59 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a221) t73 -> p36 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a62) t34 -> p60 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a101) p45 -> t58 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a222) p35 -> t74 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a61) p59 -> t34 
+[2022-02-08 16:57:54,516] 1448 DEBUG FILE_LOGGER:  ... Arc created: (ID:a64) t17 -> p24 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a102) p38 -> t27 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a223) t74 -> p38 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a63) p23 -> t17 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a224) p35 -> t76 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a66) t49 -> p30 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a65) p68 -> t36 
+[2022-02-08 16:57:54,517] 1449 DEBUG FILE_LOGGER:  ... Arc created: (ID:a68) t36 -> p60 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a67) p25 -> t17 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a176) t13 -> p19 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a69) t38 -> p55 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a170) p72 -> t58 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a171) t58 -> p74 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a172) t57 -> p76 
+[2022-02-08 16:57:54,518] 1450 DEBUG FILE_LOGGER:  ... Arc created: (ID:a1) p9 -> t2 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a3) t2 -> p2 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a4) t2 -> p3 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a5) p37 -> t3 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a6) p2 -> t13 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a7) t3 -> p40 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a8) p19 -> t24 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a9) p76 -> t4 
+[2022-02-08 16:57:54,519] 1451 DEBUG FILE_LOGGER:  ... Arc created: (ID:a71) t19 -> p27 
+[2022-02-08 16:57:54,520] 1452 DEBUG FILE_LOGGER:  ... Arc created: (ID:a70) p26 -> t19 
+[2022-02-08 16:57:54,520] 1452 DEBUG FILE_LOGGER:  ... Arc created: (ID:a73) p27 -> t21 
+[2022-02-08 16:57:54,520] 1452 DEBUG FILE_LOGGER:  ... Arc created: (ID:a72) p27 -> t20 
+[2022-02-08 16:57:54,520] 1452 DEBUG FILE_LOGGER:  ... Arc created: (ID:a75) t20 -> p28 
+[2022-02-08 16:57:54,520] 1452 DEBUG FILE_LOGGER:  ... Arc created: (ID:a74) p27 -> t22 
+[2022-02-08 16:57:55,648] 2580 DEBUG EDITOR_LOGGER: Net updated. (21 ms)
+[2022-02-08 16:57:55,673] 2605 DEBUG EDITOR_LOGGER: Net updated. (21 ms)
+[2022-02-08 16:57:55,673] 2605 DEBUG FILE_LOGGER: ##### END PNML IMPORT Version (1.3.2) ##### (1671 ms)
+[2022-02-08 16:57:55,675] 2607  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\saver\OneDrive\Documents\GitHub\Business-Process-Modeling
+[2022-02-08 16:57:55,676] 2608  INFO FILE_LOGGER: Petrinet loaded from file: C:\Users\saver\OneDrive\Documents\GitHub\Business-Process-Modeling\dog-training-wfsys.pnml
+[2022-02-08 16:58:04,064] 10996 DEBUG GUI_LOGGER: User has canceled quit-operation.
+[2022-02-08 16:58:13,381] 20313  INFO CONFIG_LOGGER: Configuration successfully saved to: C:\Users\saver\.WoPeD-3.8.0\WoPeDconfig.xml
+[2022-02-08 16:58:13,381] 20313  INFO GUI_LOGGER: EXIT WoPeD
+[2022-02-08 17:07:32,218] 0  INFO GUI_LOGGER: INIT APPLICATION
+[2022-02-08 17:07:32,240] 22  INFO CORE_LOGGER: START INIT Application
+[2022-02-08 17:07:32,250] 32  INFO CONFIG_LOGGER: Setting default home directory: C:\Users\saver\.WoPeD-3.8.0\nets\
+[2022-02-08 17:07:32,250] 32  INFO CONFIG_LOGGER: Loading configuration from: C:\Users\saver\.WoPeD-3.8.0\WoPeDconfig.xml.
+[2022-02-08 17:07:32,347] 129  INFO CONFIG_LOGGER: Setting Locale to it_IT
+[2022-02-08 17:07:32,356] 138  INFO CONFIG_LOGGER: Setting home directory: C:\Users\saver\.WoPeD-3.8.0\nets\
+[2022-02-08 17:07:32,356] 138  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\saver\OneDrive\Documents\GitHub\Business-Process-Modeling
+[2022-02-08 17:07:32,362] 144  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2022-02-08 17:07:32,369] 151  WARN CONFIG_LOGGER: Configuration file not found: C:\Users\saver\.WoPeD-3.8.0\WoPeDmetrics.xml. Using built-in settings.
+[2022-02-08 17:07:32,377] 159  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2022-02-08 17:07:32,388] 170  INFO CORE_LOGGER: Look-And-Feel set to com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2022-02-08 17:07:32,660] 442  INFO GUI_LOGGER: END  INIT Application
+[2022-02-08 17:07:32,900] 682 DEBUG QUALANALYSIS_LOGGER: -> init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2022-02-08 17:07:32,916] 698 DEBUG QUALANALYSIS_LOGGER: <- init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2022-02-08 17:07:32,957] 739 DEBUG FILE_LOGGER: ##### START PNML Version (1.3.2) IMPORT #####
+[2022-02-08 17:07:33,257] 1039 DEBUG QUALANALYSIS_LOGGER: PT Handle Pairs calculated. (0 ms)
+[2022-02-08 17:07:33,257] 1039 DEBUG QUALANALYSIS_LOGGER: TP Handle Pairs calculated. (7 ms)
+[2022-02-08 17:07:33,518] 1300 DEBUG FILE_LOGGER:  ... Place (ID:p50) imported
+[2022-02-08 17:07:33,518] 1300 DEBUG FILE_LOGGER:  ... Place (ID:p52) imported
+[2022-02-08 17:07:33,518] 1300 DEBUG FILE_LOGGER:  ... Place (ID:p51) imported
+[2022-02-08 17:07:33,518] 1300 DEBUG FILE_LOGGER:  ... Place (ID:p54) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p53) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p56) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p55) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p58) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p57) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p59) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p61) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p60) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p63) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p62) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p65) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p64) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p67) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p66) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p69) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p68) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p70) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p72) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p74) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p73) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p76) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p75) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p10) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p12) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p11) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p14) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p13) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p16) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p15) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p18) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p17) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p19) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p21) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p20) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p23) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p22) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p25) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p24) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p27) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p26) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p29) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p28) imported
+[2022-02-08 17:07:33,534] 1316 DEBUG FILE_LOGGER:  ... Place (ID:p2) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p3) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p4) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p5) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p6) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p7) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p8) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p9) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p30) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p32) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p31) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p34) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p33) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p36) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p35) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p38) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p37) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p39) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p41) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p40) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p43) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p42) imported
+[2022-02-08 17:07:33,550] 1332 DEBUG FILE_LOGGER:  ... Place (ID:p45) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Place (ID:p44) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Place (ID:p47) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Place (ID:p46) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Place (ID:p49) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Place (ID:p48) imported
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t50) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t52) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t51) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t54) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t53) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t56) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t55) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t58) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t57) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t59) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t61) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t60) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t63) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t62) imported 
+[2022-02-08 17:07:33,558] 1340 DEBUG FILE_LOGGER:  ... Transition (ID:t65) imported 
+[2022-02-08 17:07:33,566] 1348 DEBUG FILE_LOGGER:  ... Transition (ID:t67) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t66) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t69) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t68) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t2) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t3) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t4) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t5) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t6) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t7) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t9) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t70) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t72) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t71) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t74) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t73) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t76) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t10) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t12) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t11) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t14) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t13) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t16) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t15) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t18) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t17) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t19) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t21) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t20) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t23) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t22) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t25) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t24) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t27) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t26) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t29) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t28) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t30) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t32) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t31) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t34) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t33) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t36) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t35) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t38) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t37) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t39) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t41) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t40) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t43) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t42) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t45) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t44) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t46) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t49) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Transition (ID:t48) imported 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a79) t22 -> p29 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a120) t26 -> p46 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a121) t19 -> p47 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a78) p47 -> t45 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a127) p64 -> t63 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a82) t48 -> p31 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a129) p62 -> t45 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a84) p31 -> t22 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a122) t52 -> p69 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a83) p32 -> t21 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a123) p60 -> t43 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a86) t21 -> p33 
+[2022-02-08 17:07:33,567] 1349 DEBUG FILE_LOGGER:  ... Arc created: (ID:a124) t43 -> p61 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a85) p30 -> t20 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a125) p64 -> t52 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a88) t23 -> p34 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a195) p20 -> t67 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a87) p33 -> t23 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a196) t67 -> p21 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a197) p16 -> t68 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a89) t23 -> p35 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a119) t27 -> p45 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a91) p61 -> t39 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a115) p64 -> t44 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a90) t50 -> p32 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a116) t44 -> p65 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a93) t39 -> p62 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a118) t28 -> p44 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a92) p56 -> t40 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a95) p36 -> t26 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a111) t55 -> p48 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a199) t68 -> p21 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a112) t27 -> p42 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a94) t40 -> p57 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a113) p42 -> t29 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a97) p34 -> t51 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a114) t29 -> p43 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a96) p66 -> t42 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a11) t4 -> p40 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a99) t42 -> p62 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a10) t24 -> p37 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a98) p46 -> t54 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a13) p5 -> t5 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a12) p75 -> t7 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a15) t5 -> p7 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a14) p6 -> t5 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a17) t6 -> p8 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a16) p7 -> t6 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a19) t7 -> p40 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a148) p43 -> t53 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a149) p41 -> t59 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a144) p3 -> t60 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a145) p67 -> t49 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a146) t49 -> p68 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a20) t33 -> p6 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a22) t40 -> p13 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a130) t45 -> p63 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a21) p40 -> t12 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a131) p63 -> t46 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a24) p57 -> t16 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a132) t46 -> p64 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a23) t12 -> p49 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a26) t37 -> p18 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a25) t16 -> p49 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a28) t9 -> p11 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a27) p10 -> t9 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a29) t9 -> p12 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a137) p65 -> t48 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a138) t48 -> p66 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a133) t63 -> p67 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a31) p13 -> t10 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a30) p12 -> t10 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a162) p73 -> t55 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a33) p52 -> t18 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a32) t10 -> p14 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a35) t32 -> p50 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a164) p74 -> t56 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a34) p49 -> t32 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a165) t56 -> p75 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a37) p50 -> t33 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a36) t18 -> p53 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a39) p15 -> t11 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a160) p72 -> t54 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a161) t54 -> p73 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a38) t33 -> p51 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a207) t71 -> p26 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a203) t70 -> p23 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a204) p24 -> t72 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a205) t72 -> p26 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a206) p29 -> t71 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a40) t11 -> p16 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a167) p14 -> t62 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a200) p28 -> t69 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a168) t62 -> p5 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a201) t69 -> p23 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a42) p52 -> t25 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a169) p72 -> t57 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a41) p11 -> t35 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a202) p22 -> t70 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a44) t11 -> p17 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a151) t60 -> p4 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a152) t53 -> p4 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a43) p51 -> t35 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a46) p18 -> t14 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a153) p69 -> t50 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a154) t50 -> p70 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a45) p12 -> t14 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a48) t25 -> p56 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a47) t35 -> p52 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a49) p17 -> t38 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a159) t61 -> p5 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a51) t14 -> p20 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a155) p70 -> t51 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a156) t59 -> p4 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a50) p54 -> t31 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a53) t43 -> p25 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a157) p4 -> t61 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a158) t51 -> p72 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a52) t31 -> p58 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a55) p53 -> t37 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a184) t66 -> p15 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a185) p8 -> t65 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a54) p55 -> t30 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a57) p21 -> t15 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a186) t65 -> p10 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a56) t37 -> p54 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a220) p35 -> t73 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a59) t30 -> p58 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a58) t15 -> p22 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a182) p8 -> t66 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a108) t28 -> p41 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a104) p44 -> t57 
+[2022-02-08 17:07:33,583] 1365 DEBUG FILE_LOGGER:  ... Arc created: (ID:a225) t76 -> p39 
+[2022-02-08 17:07:33,598] 1380 DEBUG FILE_LOGGER:  ... Arc created: (ID:a105) p58 -> t41 
+[2022-02-08 17:07:33,598] 1380 DEBUG FILE_LOGGER:  ... Arc created: (ID:a106) p39 -> t28 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a60) p51 -> t38 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a107) t41 -> p59 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a221) t73 -> p36 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a62) t34 -> p60 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a101) p45 -> t58 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a222) p35 -> t74 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a61) p59 -> t34 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a64) t17 -> p24 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a102) p38 -> t27 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a223) t74 -> p38 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a63) p23 -> t17 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a224) p35 -> t76 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a66) t49 -> p30 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a65) p68 -> t36 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a68) t36 -> p60 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a67) p25 -> t17 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a176) t13 -> p19 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a69) t38 -> p55 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a170) p72 -> t58 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a171) t58 -> p74 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a172) t57 -> p76 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a1) p9 -> t2 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a3) t2 -> p2 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a4) t2 -> p3 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a5) p37 -> t3 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a6) p2 -> t13 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a7) t3 -> p40 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a8) p19 -> t24 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a9) p76 -> t4 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a71) t19 -> p27 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a70) p26 -> t19 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a73) p27 -> t21 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a72) p27 -> t20 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a75) t20 -> p28 
+[2022-02-08 17:07:33,599] 1381 DEBUG FILE_LOGGER:  ... Arc created: (ID:a74) p27 -> t22 
+[2022-02-08 17:07:34,386] 2168 DEBUG EDITOR_LOGGER: Net updated. (15 ms)
+[2022-02-08 17:07:34,403] 2185 DEBUG EDITOR_LOGGER: Net updated. (17 ms)
+[2022-02-08 17:07:34,403] 2185 DEBUG FILE_LOGGER: ##### END PNML IMPORT Version (1.3.2) ##### (1446 ms)
+[2022-02-08 17:07:34,411] 2193  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\saver\OneDrive\Documents\GitHub\Business-Process-Modeling
+[2022-02-08 17:07:34,411] 2193  INFO FILE_LOGGER: Petrinet loaded from file: C:\Users\saver\OneDrive\Documents\GitHub\Business-Process-Modeling\dog-training-wfsys.pnml
+[2022-02-08 17:07:40,987] 8769 DEBUG EDITOR_LOGGER: Net updated. (16 ms)
+[2022-02-08 17:07:41,338] 9120 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't57'
+[2022-02-08 17:07:41,338] 9120 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't22'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't5'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't45'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't17'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't20'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't21'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't35'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't58'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't14'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't54'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't51'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't38'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p51' to 't10'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't57'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't22'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't5'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't45'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't17'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't20'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't21'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't35'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't58'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't14'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't54'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't51'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't38'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p52' to 't10'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't57'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't22'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't5'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't45'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't17'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't20'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't21'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't35'
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,354] 9136 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't58'
+[2022-02-08 17:07:41,370] 9152 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't14'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't54'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't51'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't38'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p35' to 't10'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't57'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't22'
+[2022-02-08 17:07:41,371] 9153 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't5'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't45'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't17'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't20'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't21'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't35'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't58'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't14'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't54'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't51'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't38'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p27' to 't10'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't57'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't22'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't5'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't45'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't17'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't20'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't21'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't35'
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,376] 9158 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't58'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't14'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't54'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't51'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't38'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p8' to 't10'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't57'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't22'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't5'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't45'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't17'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't20'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't21'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't35'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't58'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't14'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't54'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't51'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't38'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p12' to 't10'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't57'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't22'
+[2022-02-08 17:07:41,386] 9168 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,402] 9184 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't5'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't45'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't17'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't20'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't21'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't35'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't58'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't14'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't54'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't51'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't38'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p64' to 't10'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't57'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't22'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't5'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't45'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't17'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't20'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't21'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't35'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't58'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't14'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't54'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't51'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't38'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 'p72' to 't10'
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,403] 9185 DEBUG QUALANALYSIS_LOGGER: PT Handle Pairs calculated. (70878 ms)
+[2022-02-08 17:07:41,419] 9201 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p23'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p26'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p5'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p49'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p40'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p21'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p58'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p62'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p4'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't27' to 'p60'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p23'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p26'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p5'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p49'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p40'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p21'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p58'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p62'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p4'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't28' to 'p60'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p23'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p26'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p5'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p49'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p40'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p21'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p58'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p62'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p4'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't9' to 'p60'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p23'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p26'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p5'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p49'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p40'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p21'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p58'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p62'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p4'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't19' to 'p60'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p23'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p26'
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,434] 9216 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p21'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p58'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p62'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p4'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't48' to 'p60'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p23'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p26'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p21'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p58'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p62'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p4'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't43' to 'p60'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p23'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p26'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p21'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p58'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p62'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p4'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't33' to 'p60'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p23'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p26'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p21'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p58'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p62'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p4'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't40' to 'p60'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p23'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p26'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p21'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p58'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p62'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p4'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't2' to 'p60'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p23'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p26'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p5'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p49'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p40'
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,450] 9232 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p21'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p58'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p62'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p4'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't49' to 'p60'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p23'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p26'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p5'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p49'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p40'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p21'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p58'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p62'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p4'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't37' to 'p60'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p23'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p26'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p5'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p49'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p40'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p21'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p58'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p62'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p4'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't50' to 'p60'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p23'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p26'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p5'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p49'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p40'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p21'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p58'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p62'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p4'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't11' to 'p60'
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,466] 9248 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p23'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p26'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p5'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p49'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p40'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p21'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p58'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p62'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p4'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Calculating flow from 't23' to 'p60'
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: Resulting flow = 2
+[2022-02-08 17:07:41,476] 9258 DEBUG QUALANALYSIS_LOGGER: TP Handle Pairs calculated. (43325 ms)
+[2022-02-08 17:08:08,898] 36680  INFO FILE_LOGGER: Local WoPeD analysis started.
+[2022-02-08 19:14:01,805] 7589587  INFO CONFIG_LOGGER: Configuration successfully saved to: C:\Users\saver\.WoPeD-3.8.0\WoPeDconfig.xml
+[2022-02-08 19:14:01,805] 7589587  INFO GUI_LOGGER: EXIT WoPeD
