@@ -1,4 +1,10 @@
-# Business-Process-Modeling
+# Dog-Training-Workflow-System-Analysis
+### Project for Business Process Modeling course @ University of Pisa
+
+<img width=150px src="https://www.plan4res.eu/wp-content/uploads/2018/02/University-of-Pisa-Italy.png" />
+
+### Description
+The project is about the process by which a client books a dog training session. More details are written in the project [track](https://github.com/francescogemignani/Business-Process-Modeling/blob/main/p49-DogTraining-it-GemignaniTelera.pdf). The collaboration diagram is created with BPMN notation. From this latter, we used WoPed to design the network and perform a semantical analysis of the net, describing the characteristics of the reachability graph. 
 
 ### Course Objectives
 The course presents techniques for Business Analytics according to the processdriven view of Business Process Modeling. It presents the main concepts and problematic issues related to the process management, where processes are understood as
